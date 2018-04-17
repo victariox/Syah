@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Syah
+Comment=Pitch black like human hearts
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Syah
+MetacityTheme=Syah
+IconTheme=Paper
+CursorTheme=Breeze_cursors
+
